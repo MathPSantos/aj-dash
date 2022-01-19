@@ -9,7 +9,7 @@
   width: 72px;
   min-height: 100vh;
   background-color: #1a365d;
-  color: #fbfcfd;
+  color: #F8FAFC;
   transition: all 0.3s ease;
   z-index: 0;
 }
@@ -57,7 +57,7 @@
 
 .page-header-container {
   width: 100%;
-  background-color: #fbfcfd;
+  background-color: #F8FAFC;
 
   padding: 20px;
   border-bottom: 1px solid #e2e8f0;
@@ -117,7 +117,7 @@ button {
 
   border: 0;
   background-color: #3182ce;
-  color: #fbfcfd;
+  color: #F8FAFC;
 }
 
 .icon-button svg {
@@ -126,7 +126,7 @@ button {
 
 .icon-button-secondary {
   border: 1px solid #e2e8f0;
-  background-color: #fbfcfd;
+  background-color: #F8FAFC;
   color: #718096;
 }
 
@@ -203,12 +203,12 @@ h3 {
 
   border: 0;
   background-color: #3182ce;
-  color: #fbfcfd;
+  color: #F8FAFC;
 }
 
 .button-secondary {
   border: 1px solid #e2e8f0;
-  background-color: #fbfcfd;
+  background-color: #F8FAFC;
   color: #718096;
 }
 
